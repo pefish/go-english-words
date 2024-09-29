@@ -13,5 +13,4 @@ func main() {
 	fmt.Println(go_english_words.IsWord("my"))
 	fmt.Println(go_english_words.IsWord("you"))
 	fmt.Println(go_english_words.IsWord("fuck"))
-
 }
